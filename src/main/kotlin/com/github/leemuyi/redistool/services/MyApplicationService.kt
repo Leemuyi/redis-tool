@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.leemuyi.redistool.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.leemuyi.redistool.MyBundle
 
 class MyApplicationService {
 
